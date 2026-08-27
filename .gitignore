@@ -1,2 +1,12 @@
 .DS_Store
 *.lck
+
+# KiCad 10 Local History snapshots (contains its own nested .git)
+.history/
+
+# Fabrication Toolkit plugin: local output + per-user export config
+production/
+fabrication-toolkit-options.json
+
+# KiCad per-user local state
+*.kicad_prl
