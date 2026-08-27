@@ -4340,7 +4340,7 @@
 		(layer "User.1")
 		(uuid "61e1cc2d-c528-464b-b93a-818d2050b0de")
 	)
-	(gr_text "(BRANDING)"
+	(gr_text "SOCKEYE"
 		(at 196.25 88.75 90)
 		(layer "F.Cu")
 		(uuid "16b491f0-cfa6-4642-8e04-8db20943bb48")
@@ -4374,7 +4374,7 @@
 			)
 		)
 	)
-	(gr_text "(BRANDING)"
+	(gr_text "SOCKEYE"
 		(at 101.25 88.75 90)
 		(layer "F.Cu")
 		(uuid "6abfdb61-ae37-4775-9bb7-de0cdba91595")
@@ -4409,7 +4409,7 @@
 			(justify left mirror)
 		)
 	)
-	(gr_text "(BRANDING)"
+	(gr_text "SOCKEYE"
 		(at 101.25 88.75 270)
 		(layer "B.Cu")
 		(uuid "51f133bc-78cd-492b-bad0-c8031feb9e50")
@@ -4433,7 +4433,7 @@
 			(justify right mirror)
 		)
 	)
-	(gr_text "(BRANDING)"
+	(gr_text "SOCKEYE"
 		(at 196.25 88.75 270)
 		(layer "B.Cu")
 		(uuid "e5748069-d9af-4453-9c02-64431cbfc31a")
